@@ -1,0 +1,68 @@
+{
+    "con_acc.z61Mastodon.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "675cd6f3e569b77f0bae964e0a8942f2"
+    },
+    "con_acc_desc.z61Mastodon.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "con_acc_z61Mastodon_client_id_explain.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "f1e726edbca5bc78ccea10a45e2c347f"
+    },
+    "con_acc_z61Mastodon_client_secret_explain.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "cbd969ab94b29e6bc7e22ec956611867"
+    },
+    "option.z61MastodonInstance.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "ee16365241479d7e3d632a5d97854c26"
+    },
+    "option_explain.z61MastodonInstance.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "6cdad5bd59e9d0787f9f59f6bcca294f"
+    },
+    "option_group.z61Mastodon.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "c561a1f7da689d9428f15427a21b8c9e"
+    },
+    "option_group_description.z61Mastodon.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "cce2cf054813cac7af6d7e8d8ed93a17"
+    },
+    "z61_mastodon_instance_explain.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "454d95621e1db7e0a7f6f605de79a754"
+    },
+    "z61_mastodon_instance_url.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "9a4bfb12d4b66f9930570a78f015bce4"
+    },
+    "z61_mastodon_invalid_url.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "c845672e12af0e5e2ca06122bca9bf3f"
+    }
+}

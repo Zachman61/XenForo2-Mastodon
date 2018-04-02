@@ -1,0 +1,14 @@
+<xf:if is="!$providerData">
+    <xf:inforow>
+        {{ phrase('this_will_test_x_connected_account_provider_explain', {'title': $provider.title}) }}
+    </xf:inforow>
+
+    <xf:formrow label="{{ phrase('client_id') }}">{$provider.options.client_id}</xf:formrow>
+<xf:else />
+    <xf:inforow rowtype="confirm"><strong>{{ phrase('test_passed') }}</strong></xf:inforow>
+
+    	<xf:macro template="connected_account_provider_test_macros" name="display_name"
+		arg-name="{$providerData.username}" />
+	<xf:macro template="connected_account_provider_test_macros" name="picture"
+			  arg-url="{$providerData.avatar}" />
+</xf:if>

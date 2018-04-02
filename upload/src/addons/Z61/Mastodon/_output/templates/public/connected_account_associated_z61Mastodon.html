@@ -1,0 +1,8 @@
+<xf:if is="$providerData">
+	<a href="{$providerData.url}" target="_blank">
+		<img src="{$providerData.avatar}" width="48" alt="" />
+	</a>
+	<div><a href="{$providerData.url}" target="_blank">@{$providerData.acct} {$providerData.username|parens}</a></div>
+<xf:else />
+	{{ phrase('unknown_account') }}
+</xf:if>

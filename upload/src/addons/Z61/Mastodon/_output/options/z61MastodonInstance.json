@@ -1,0 +1,12 @@
+{
+    "edit_format": "textbox",
+    "edit_format_params": "",
+    "data_type": "string",
+    "sub_options": [],
+    "validation_class": "Z61\\Mastodon\\Option\\InstanceUrl",
+    "validation_method": "verifyOption",
+    "default_value": "",
+    "relations": {
+        "z61Mastodon": 1
+    }
+}

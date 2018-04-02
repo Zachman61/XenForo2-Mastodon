@@ -1,0 +1,1 @@
+Your Mastodon instance url. Example: https://mastodon.xyz

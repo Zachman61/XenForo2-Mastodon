@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "Mastodon integration",
+    "description": "Adds support for Mastodon instance integration",
+    "version_id": 1000000,
+    "version_string": "1.0.0",
+    "dev": "Z61",
+    "dev_url": "https://zeesixtyone.com/",
+    "faq_url": "",
+    "support_url": "https://nixfifty.com/tickets/",
+    "extra_urls": [],
+    "require": [],
+    "icon": "icon.png"
+}

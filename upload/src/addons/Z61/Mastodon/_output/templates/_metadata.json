@@ -1,0 +1,17 @@
+{
+    "admin/connected_account_provider_test_z61Mastodon.html": {
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "df41af37407de1a6dac956e0a2f94eec"
+    },
+    "admin/connected_account_provider_z61Mastodon.html": {
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "56b7eb5da550231f1721695edb83f810"
+    },
+    "public/connected_account_associated_z61Mastodon.html": {
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "47a0d6ea22ed8e0fbbe574e9e18a9998"
+    }
+}

@@ -1,0 +1,1 @@
+Your Mastodon instance url (ex: <i>https://mastodon.xyz</i>).
